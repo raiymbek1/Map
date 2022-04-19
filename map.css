@@ -1,0 +1,32 @@
+.batys_cities, .ontustik_cites, .soltustik_cities, .ortalyq_city, .shygys_cities, .sea {
+	fill: rgb(44, 195, 97);
+	stroke-width: 0.639225181598063;
+	stroke-opacity: 1;
+	stroke: rgba(80,80,80,1);
+	cursor: pointer;
+}
+
+.batys_cities:hover {
+	fill: rgb(14, 255, 26);
+
+}
+
+.ontustik_cites:hover {
+	fill: rgb(213, 247, 89);
+}
+
+.soltustik_cities:hover {
+	fill: rgb(247, 152, 89);
+}
+
+.ortalyq_city:hover {
+	fill: rgb(247, 89, 89);
+}
+
+.shygys_cities:hover {
+	fill: rgb(89, 118, 247);
+}
+
+.sea:hover {
+	fill: aqua;
+}
